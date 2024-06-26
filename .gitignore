@@ -1,0 +1,4 @@
+/CIFAR10_DATASET
+/csv_logger
+/configs
+CIFAR_CNN_Hydra.py
